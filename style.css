@@ -74,15 +74,14 @@ body {
 
 header {
     background-color: var(--midnight-blue);
+    color: var(--soft-white);
 }
 
 header h1 {
     font-size: 3em;
     font-weight: bold;
-    color: var(--soft-white)
 }
 
-header h3 {
+header h4 {
     font-style: italic;
-    color: var(--soft-white)
 }
