@@ -89,4 +89,5 @@ header h4 {
 
 nav ul {
     background-color: var(--champagne-gold);
+    text-decoration: none;
 }
