@@ -91,3 +91,12 @@ nav ul {
     background-color: var(--champagne-gold);
     text-decoration: none;
 }
+
+footer {
+    background-color: var(--midnight-blue);
+    color: var(--soft-white);
+}
+
+footer a {
+    color: var(--champagne-gold);
+}
