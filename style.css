@@ -119,6 +119,7 @@ h2 {
 .offer-section {
     background-color: var(--olive-green);
     color: var(--soft-white);
+    border-radius: 25px;
     width: 300px;
     margin: 20px;
     padding: 20px;
