@@ -65,12 +65,13 @@ table {
 
 /* GLOBAL STYLES (mobile first/small) */
 
-/* MEDIA QUERY (xl) */
-@media screen and (min-width: 1200px) {
-   body {
-       font-family: "Playfair Display", serif;
-       background-color: var(--linen);
+/* MEDIA QUERY (medium) */
+@media screen and (min-width: 600px) {
+    body {
+        font-family: "Playfair Display", serif;
+        background-color: var(--linen);
     }
+
 }
 
 /* MEDIA QUERY (large) */
@@ -82,13 +83,12 @@ table {
 
 }
 
-/* MEDIA QUERY (medium) */
-@media screen and (min-width: 600px) {
-    body {
-        font-family: "Playfair Display", serif;
-        background-color: var(--linen);
+/* MEDIA QUERY (xl) */
+@media screen and (min-width: 1200px) {
+   body {
+       font-family: "Playfair Display", serif;
+       background-color: var(--linen);
     }
-
 }
 
 .page-break-line {
