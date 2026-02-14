@@ -137,9 +137,18 @@ h2 {
     padding: 5px;
 }
 
-nav ul {
-    background-color: var(--champagne-gold);
+nav a{
+    color: var(--midnight-blue);
     text-decoration: none;
+    padding: 20px;
+}
+
+nav {
+    background-color: var(--champagne-gold);
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding: 10px;
 }
 
 footer {
@@ -150,9 +159,9 @@ footer {
 
 footer a {
     color: var(--champagne-gold);
-    padding: 20px;
+    padding: 10px;
 }
 
 footer p {
-    padding: 20px;
+    padding: 10px;
 }
