@@ -91,6 +91,10 @@ table {
 
 }
 
+.page-break-line {
+    color: var(--champagne-gold);
+}
+
 header {
     background-color: var(--midnight-blue);
     color: var(--soft-white);
