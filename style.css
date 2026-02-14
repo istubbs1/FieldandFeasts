@@ -63,7 +63,7 @@ table {
     --soft-white: #FAF9F6;
 }
 
-/* GLOBAL STYLES (mobile first/small) */
+/* GLOBAL STYLE (small) */
 
 /* MEDIA QUERY (medium) */
 @media screen and (min-width: 600px) {
@@ -98,15 +98,18 @@ table {
 header {
     background-color: var(--midnight-blue);
     color: var(--soft-white);
+    padding: 20px;
 }
 
 header h1 {
     font-size: 3em;
     font-weight: bold;
+    text-align: center;
 }
 
 header h4 {
     font-style: italic;
+    text-align: center;
 }
 
 h2 {
@@ -139,6 +142,18 @@ h2 {
     list-style-type: disc;
     margin-left: 20px;
     padding: 5px;
+}
+
+#about-us h2 {
+    padding: 20px;
+}
+
+#offerings h2 {
+    padding: 20px;
+}
+
+#gallery h2 {
+    padding: 20px;
 }
 
 nav a{
