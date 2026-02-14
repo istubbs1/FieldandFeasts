@@ -77,7 +77,7 @@ table {
 
 /* MEDIA QUERY (medium) */
 @media screen and (min-width: 600px) {
-    
+
 }
 
 body {
@@ -107,8 +107,14 @@ nav ul {
 footer {
     background-color: var(--midnight-blue);
     color: var(--soft-white);
+    text-align: center;
 }
 
 footer a {
     color: var(--champagne-gold);
+    padding: 20px;
+}
+
+footer p {
+    padding: 20px;
 }
