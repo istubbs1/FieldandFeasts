@@ -65,6 +65,11 @@ table {
 
 /* GLOBAL STYLE (small) */
 
+body {
+    font-family: "Playfair Display", serif;
+    background-color: var(--linen);
+}
+
 /* MEDIA QUERY (medium) */
 @media screen and (min-width: 600px) {
     body {
