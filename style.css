@@ -155,6 +155,15 @@ h2 {
     padding: 20px;
 }
 
+#gallery a {
+    color: var(--soft-white);
+    background-color: var(--olive-green);
+    text-decoration: none;
+    align-items: center;
+    padding: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
 #offerings h2 {
     padding: 20px;
 }
